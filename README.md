@@ -1,0 +1,23 @@
+# Landing Page de Gastronomia Brasileira
+## esse projeto utiliza:
+- HTML5 ![html icon] (./assets/html.webp)
+- CSS3  ![css icon] (./assets/css.webp)
+- JS ES6+ ![js icon] (./assets/js.webp)
+## esse projeto é uma landing page do expocuca-2025 da etec camargo aranha, porém, agora aprimorado e com novos requisitos, sendo:
+### funcionais:
+- site leve/bom SEO
+- navbar
+- projeto bem documentado
+- imagens leves
+- informações reais sobre o curso
+### não-funcionais:
+- responsividade
+- interface simples
+- botão de darkmode
+- paleta de cores da escola
+## como iniciar:
+```
+git clone https://github.com/shibadev54/Expocuca-2026
+```
+## ou pelo link:
+``````
