@@ -20,4 +20,4 @@
 git clone https://github.com/shibadev54/Expocuca-2026
 ```
 ## ou pelo link:
-``````
+```https://shibadev54.github.io/Expocuca-2026/```
