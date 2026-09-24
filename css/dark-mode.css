@@ -1,0 +1,23 @@
+body.dark {
+    background: #121212;
+    color: #eee;
+}
+
+body.dark .card,
+body.dark .contact-info p {
+    background: #1e1e1e;
+    color: #eee;
+}
+
+body.dark .card p {
+    color: #ddd;
+}
+
+body.dark section h2,
+body.dark .card h3 {
+    color: #4da3d9;
+}
+
+body.dark .contact-info a {
+    color: #4da3d9;
+}

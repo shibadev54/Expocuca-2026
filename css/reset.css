@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    color: #222;
+    line-height: 1.6;
+    transition: background 0.3s, color 0.3s;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    color: inherit;
+}

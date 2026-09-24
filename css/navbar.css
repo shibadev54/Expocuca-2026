@@ -1,0 +1,45 @@
+nav {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+
+    background: #004575;
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    gap: 25px;
+    padding: 12px 20px;
+
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+nav a {
+    text-decoration: none;
+    font-weight: bold;
+    transition: opacity 0.2s;
+}
+
+nav a:hover {
+    opacity: 0.7;
+}
+
+.dark-button {
+    border: none;
+    background: transparent;
+    padding: 7px 12px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+.dark-button img {
+    width: 24px;
+    height: 24px;
+    filter: brightness(0);
+}
+
+body.dark .dark-button img {
+    filter: brightness(0) invert(1);
+}
